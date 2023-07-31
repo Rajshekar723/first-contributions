@@ -505,6 +505,7 @@ nowy wpis
 - [Mohammad Aakash](https://github.com/MuhammadAakash)
 - [Vibin reji](https://github.com/Vibinreji)
 - [Akinbobola Emmanuel](https://github.com/Oluwatominsin-c)
+- [Deepak N](https://github.com/ldpacl)
 - [Aditya Chache](https://github.com/adityachache)
 - [Amol Pingale](https://github.com/AmOL-PiNGALE)
 - [Dhruv Jain](https://github.com/dhruvjain896)
